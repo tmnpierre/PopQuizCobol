@@ -2,7 +2,27 @@
 
 ## Quelle est la signification et le sens de COBOL ?
 
-COBOL, acronyme de "Common Business-Oriented Language", est un langage de programmation introduit dans les années 1950. Le terme "Common", traduit par "Commun", souligne son objectif d'universalité et d'accessibilité pour différentes entreprises. L'expression "orienté affaires" reflète sa spécialisation dans les applications commerciales, bancaires, d'assurance, etc.
+COBOL, qui se traduit par "Common Business-Oriented Language" (Langage Commun Orienté Affaires), est plus qu'un simple langage de programmation historique; il s'agit d'une pierre angulaire de l'informatique d'entreprise conçue pour répondre aux besoins spécifiques des opérations commerciales. Créé dans les années 1950, son objectif était de fournir un langage de programmation qui puisse être compris non seulement par les informaticiens mais aussi par les gestionnaires et les analystes de gestion, facilitant ainsi la communication des processus d'affaires et des exigences logicielles.
+
+### L'Universalité et l'Accessibilité
+
+Le terme "Common" dans COBOL souligne son ambition d'universalité. Dès sa conception, COBOL visait à créer un standard qui pourrait être utilisé sur différentes machines et systèmes, brisant ainsi les barrières imposées par les langages propriétaires. Cette universalité a permis à COBOL de devenir le langage de choix pour les applications critiques à travers diverses industries, notamment la banque, l'assurance, et les administrations publiques.
+
+L'accessibilité est un autre pilier de COBOL. Conçu pour être proche de l'anglais, le langage permet une formulation claire des instructions, rendant les programmes COBOL relativement faciles à lire et à comprendre. Cela a ouvert la programmation informatique à un public plus large, permettant aux professionnels non techniques de participer à la conception et à l'analyse des processus d'affaires implémentés par les systèmes informatiques.
+
+### Spécialisation dans les Applications d'Affaires
+
+L'expression "Business-Oriented" met en lumière la spécialisation de COBOL dans les applications commerciales. COBOL a été conçu avec des fonctionnalités spécifiques pour gérer des volumes massifs de transactions et de données, une nécessité dans le domaine des affaires. La précision dans le traitement des données numériques, la gestion des fichiers complexes, et la capacité à gérer des opérations batch et transactionnelles sont des caractéristiques qui ont fait de COBOL le langage de prédilection pour les systèmes qui exigent fiabilité et efficacité à grande échelle.
+
+### COBOL Aujourd'hui
+
+Malgré les perceptions de COBOL comme étant obsolète, son importance dans l'infrastructure informatique mondiale demeure incontestée. Des milliards de lignes de code COBOL sont encore en fonction aujourd'hui, gérant des systèmes critiques pour l'économie globale. Sa durabilité s'explique par sa robustesse, sa fiabilité et la capacité à évoluer au fil des décennies pour répondre aux nouveaux défis technologiques.
+
+La récente pénurie de compétences en COBOL, accentuée par le besoin de maintenance et de modernisation des systèmes existants, a renouvelé l'intérêt pour le langage. Cette situation souligne l'importance de transmettre les compétences en COBOL à une nouvelle génération de développeurs, garantissant ainsi la continuité des opérations commerciales qui dépendent de cette technologie fondamentale.
+
+**Conclusion:**
+
+Le sens et la signification de COBOL vont bien au-delà de ses spécifications techniques. Il représente un lien essentiel entre la technologie informatique et les opérations commerciales, un testament à sa conception visionnaire qui a anticipé les besoins de l'informatique d'entreprise depuis plus d'un demi-siècle. COBOL reste une composante cruciale de notre infrastructure technologique mondiale, témoignant de sa conception robuste et de son adaptabilité exceptionnelle.
 
 ## Afin d'introduire les principes fondamentaux du COBOL, effectuer un travail de recherche sur les notions suivantes :
 
